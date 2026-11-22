@@ -1,36 +1,35 @@
-Student Performance Analysis System
+# Student Performance Analysis System
 
-About the Project:
+## About the Project
 
-This is a Python project that aims to make student performance analysis easier. It will help calculate average marks, assign grades, rank students, and identify subjects where students need improvement.
+This is a Python project developed for the course Computational Thinking and Programming.
 
-Objectives:
+The project helps analyse student performance using a CSV file.
 
-Calculate students' average marks.
-Assign grades based on marks.
-Rank students according to their performance.
-Identify subjects with low marks.
-Display a summary of class performance.
+## Features
 
-Technologies Used:
+- Display all student records
+- Search students using registration numbers
+- Rank students according to Total Marks
+- Calculate class averages
+- Find the highest and lowest scorers
+- Analyse assessment-wise performance
+- Add new student records
+- Export performance analysis to CSV
 
-Python
-CSV file handling
+## Technologies Used
 
-Planned Features:
-Student performance display
-Grade and average calculation
-Student ranking
-Individual student reports
-Class performance summary
+- Python
+- CSV file handling
+- Lists and functions
+- Loops and conditional statements
 
-Project Status:
+## Project Files
 
-Currently in development as part of the Computational Thinking and Programming course.
+- `student_performance_analysis.py` – Main Python program
+- `activity6_object_model_demo.py` – Activity 6 demonstration
+- `students.csv` – Sample student dataset
 
-Team:
-Harshit Mathur
-Adil Alam
-Navvarsh Singh
+## Course
 
-Developed as a group project for Bennett University, Academic Year 2026–27.
+Computational Thinking and Programming (2026CSAE100)
