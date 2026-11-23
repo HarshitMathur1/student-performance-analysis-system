@@ -30,6 +30,15 @@ The project helps analyse student performance using a CSV file.
 - `activity6_object_model_demo.py` – Activity 6 demonstration
 - `students.csv` – Sample student dataset
 
-## Course
+## Group Project Team Members
 
-Computational Thinking and Programming (2026CSAE100)
+| S. No. | Name | Registration Number |
+|:---:|---|---|
+| 1 | Harshit Mathur | S26CSEU0004 |
+| 2 | Navvarsh Pratap Singh | S26CSEU0097 |
+| 3 | Adil Alam | S26CSEU0041 |
+
+## Course Details
+
+**Course:** Computational Thinking and Programming  
+**Course Code:** 2026CSAE100
